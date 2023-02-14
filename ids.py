@@ -1,0 +1,6 @@
+PIE_CHART = "pie_chart"
+PIE_CHART1 = "pie_chart1"
+PIE_CHART2 = "pie_chart2"
+BAR_CHART = "bar_chart"
+BAR_CHART1 = "bar_chart1"
+BAR_CHART2 = "bar_chart2"
